@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 
 
-vagrant up &
+vagrant up && exit
 #vagrant provision
