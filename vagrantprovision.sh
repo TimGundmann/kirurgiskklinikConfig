@@ -1,2 +1,5 @@
-vagrant up
-vagrant provision
+#!/usr/bin/env bash
+
+
+vagrant up &
+#vagrant provision
